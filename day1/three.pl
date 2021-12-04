@@ -1,7 +1,7 @@
 #!perl
 # 2021-12-03 gbk
 
-package gbk::advent2021::day1a;
+package gbk::advent2021::day1b;
 use common::sense;
 use List::Util qw{sum};
 
